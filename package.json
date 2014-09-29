@@ -1,0 +1,23 @@
+{
+  "name": "random-element",
+  "version": "0.0.0",
+  "description": "'generate random element of the input array'",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jarvys/random-element.git"
+  },
+  "keywords": [
+    "random",
+    "array"
+  ],
+  "author": "Jarvys <yuhan534@126.com> (https://jarvys.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jarvys/random-element/issues"
+  },
+  "homepage": "https://github.com/jarvys/random-element"
+}
