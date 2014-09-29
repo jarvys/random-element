@@ -1,6 +1,6 @@
 {
   "name": "random-element",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "'generate random element of the input array'",
   "main": "index.js",
   "scripts": {
